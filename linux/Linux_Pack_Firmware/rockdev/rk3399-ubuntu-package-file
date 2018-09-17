@@ -7,5 +7,5 @@ parameter	Image/parameter.txt
 trust		Image/trust.img
 uboot		Image/uboot.img
 boot		Image/boot.img
-rootfs		Image/rootfs.img
+rootfs:grow		Image/rootfs.img
 backup		RESERVED
